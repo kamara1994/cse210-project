@@ -1,0 +1,4 @@
+SCORE|1150|LEVEL|2|BADGES|FirstSimple
+Simple|Scripture Study|Daily chapter reading|100|True
+Simple|Run Marathon| Finish one marathon|1000|True
+Eternal|Temple Attendance|Attend 10 time|50|1
