@@ -1,0 +1,3 @@
+Simple|1|Scripture Study|15 min daily|50|0
+Eternal|2|push ups|do a quick set|10
+Checklist|3|gym|3x this week|20|0|3|1|40
