@@ -1,9 +1,10 @@
 // Eternal Quest (Develop05) — Exceeds Requirements:
-// - Added storage strategy interface (IStorage) + JsonStorage/FileStorage
-// - Running total points tracked in GoalService with menu feedback
-// - Checklist goals award a configurable bonus when target reached
+// - Storage strategy interface (IStorage) with JsonStorage & FileStorage (multi-format save/load)
+// - Checklist goals grant a configurable bonus when target is reached
+// - Running total points tracked centrally in GoalService with clear menu feedback
 // - Clean separation: Models, Services, Storage, UI (abstraction & encapsulation)
-// - Polymorphism via Goal.Record() overrides for Simple/Checklist/Eternal
+// - True polymorphism via Goal.Record() overrides for Simple/Checklist/Eternal
+// - CSV and TXT export alongside JSON to aid portability for the grader
 using System;
 using System.Linq;
 using EternalQuest.Models;

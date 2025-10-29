@@ -1,0 +1,38 @@
+{
+  "TotalPoints": 50,
+  "Goals": [
+    {
+      "Kind": "Simple",
+      "Id": 1,
+      "Name": "Scripture Study",
+      "Description": "15 min daily",
+      "Points": 50,
+      "Completed": true,
+      "Target": null,
+      "Count": null,
+      "Bonus": null
+    },
+    {
+      "Kind": "Eternal",
+      "Id": 2,
+      "Name": "push ups",
+      "Description": "do a quick set",
+      "Points": 10,
+      "Completed": false,
+      "Target": null,
+      "Count": null,
+      "Bonus": null
+    },
+    {
+      "Kind": "Checklist",
+      "Id": 3,
+      "Name": "gym",
+      "Description": "3x this week",
+      "Points": 20,
+      "Completed": false,
+      "Target": 3,
+      "Count": 1,
+      "Bonus": 40
+    }
+  ]
+}
