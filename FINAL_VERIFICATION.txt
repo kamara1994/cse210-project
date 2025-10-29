@@ -1,0 +1,421 @@
+=== Repo / Branch / Remote ===
+origin	https://github.com/kamara1994/cse210-project.git (fetch)
+origin	https://github.com/kamara1994/cse210-project.git (push)
+main
+0417070 (HEAD -> main, tag: v1.4-foundation-final, origin/main, origin/HEAD) Finalize Foundation Four in final/Foundation1-4; solution builds clean
+cd7f77a Move Foundation 4 final project into final/Foundation1-4 and update solution
+070bb83 W06 milestone added for Eternal Quest (status + run steps)
+v1.0-submission CSE210 submission
+v1.2-develop05  Develop05 submission snapshot
+v1.3-final      Final Project (Open-ended + Foundation 4) submission snapshot
+v1.4-foundation-final Foundation Four final submission (Week 7)
+=== Solution Projects ===
+Project(s)
+----------
+csharp-prep\Prep1\Prep1.csproj
+csharp-prep\Prep2\Prep2.csproj
+csharp-prep\Prep3\Prep3.csproj
+csharp-prep\Prep4\Prep4.csproj
+csharp-prep\Prep5\Prep5.csproj
+final\FinalProject\FinalProject.csproj
+final\Foundation1\01-Video\Video.csproj
+final\Foundation2\02-Shipping\Shipping.csproj
+final\Foundation3\03-Planner\Planner.csproj
+final\Foundation4\04-Exercise\Exercise.csproj
+FinalProject\EternalQuest\EternalQuest.csproj
+prepare\Learning02\Learning02.csproj
+prepare\Learning03\Learning03.csproj
+prepare\Learning04\Learning04.csproj
+prepare\Learning05\Learning05.csproj
+prove\Develop02\Develop02.csproj
+prove\Develop03\Develop03.csproj
+prove\Develop04\Develop04.csproj
+sandbox\Sandbox\Sandbox.csproj
+=== Build Output ===
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Develop04 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop04\bin\Debug\net8.0\Develop04.dll
+  FinalProject -> C:\Users\Joeallan\dev\cse210-project\final\FinalProject\bin\Debug\net8.0\FinalProject.dll
+  Video -> C:\Users\Joeallan\dev\cse210-project\final\Foundation1\01-Video\bin\Debug\net8.0\Video.dll
+  Prep4 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.dll
+  Learning02 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning02\bin\Debug\net8.0\Learning02.dll
+  Learning05 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning05\bin\Debug\net8.0\Learning05.dll
+  Learning03 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning03\bin\Debug\net8.0\Learning03.dll
+  Learning04 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning04\bin\Debug\net8.0\Learning04.dll
+  Prep3 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.dll
+  EternalQuest -> C:\Users\Joeallan\dev\cse210-project\FinalProject\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+  Sandbox -> C:\Users\Joeallan\dev\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+  Develop03 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop03\bin\Debug\net8.0\Develop03.dll
+  Prep2 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.dll
+  Develop02 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop02\bin\Debug\net8.0\Develop02.dll
+  Prep5 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep5\bin\Debug\net8.0\Prep5.dll
+  Shipping -> C:\Users\Joeallan\dev\cse210-project\final\Foundation2\02-Shipping\bin\Debug\net8.0\Shipping.dll
+  Exercise -> C:\Users\Joeallan\dev\cse210-project\final\Foundation4\04-Exercise\bin\Debug\net8.0\Exercise.dll
+  Planner -> C:\Users\Joeallan\dev\cse210-project\final\Foundation3\03-Planner\bin\Debug\net8.0\Planner.dll
+  Prep1 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.20
+=== Final Project Folder Tree (Foundation 1–4) ===
+Folder PATH listing for volume Windows
+Volume serial number is 78ED-6B10
+C:\USERS\JOEALLAN\DEV\CSE210-PROJECT\FINAL
++---FinalProject
+ª   ª   FinalProject.csproj
+ª   ª   Program.cs
+ª   ª   
+ª   +---bin
+ª   ª   +---Debug
+ª   ª       +---net8.0
+ª   ª               FinalProject.deps.json
+ª   ª               FinalProject.dll
+ª   ª               FinalProject.exe
+ª   ª               FinalProject.pdb
+ª   ª               FinalProject.runtimeconfig.json
+ª   ª               
+ª   +---obj
+ª       ª   FinalProject.csproj.nuget.dgspec.json
+ª       ª   FinalProject.csproj.nuget.g.props
+ª       ª   FinalProject.csproj.nuget.g.targets
+ª       ª   project.assets.json
+ª       ª   project.nuget.cache
+ª       ª   
+ª       +---Debug
+ª           +---net8.0
+ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª               ª   apphost.exe
+ª               ª   FinalProject.AssemblyInfo.cs
+ª               ª   FinalProject.AssemblyInfoInputs.cache
+ª               ª   FinalProject.assets.cache
+ª               ª   FinalProject.csproj.CoreCompileInputs.cache
+ª               ª   FinalProject.csproj.FileListAbsolute.txt
+ª               ª   FinalProject.dll
+ª               ª   FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+ª               ª   FinalProject.genruntimeconfig.cache
+ª               ª   FinalProject.GlobalUsings.g.cs
+ª               ª   FinalProject.pdb
+ª               ª   FinalProject.sourcelink.json
+ª               ª   
+ª               +---ref
+ª               ª       FinalProject.dll
+ª               ª       
+ª               +---refint
+ª                       FinalProject.dll
+ª                       
++---Foundation1
+ª   +---01-Video
+ª   ª   ª   Program.cs
+ª   ª   ª   README.md
+ª   ª   ª   Video.csproj
+ª   ª   ª   
+ª   ª   +---bin
+ª   ª   ª   +---Debug
+ª   ª   ª       +---net8.0
+ª   ª   ª               Video.deps.json
+ª   ª   ª               Video.dll
+ª   ª   ª               Video.exe
+ª   ª   ª               Video.pdb
+ª   ª   ª               Video.runtimeconfig.json
+ª   ª   ª               
+ª   ª   +---obj
+ª   ª       ª   project.assets.json
+ª   ª       ª   project.nuget.cache
+ª   ª       ª   Video.csproj.nuget.dgspec.json
+ª   ª       ª   Video.csproj.nuget.g.props
+ª   ª       ª   Video.csproj.nuget.g.targets
+ª   ª       ª   
+ª   ª       +---Debug
+ª   ª           +---net8.0
+ª   ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª   ª               ª   apphost.exe
+ª   ª               ª   Video.AssemblyInfo.cs
+ª   ª               ª   Video.AssemblyInfoInputs.cache
+ª   ª               ª   Video.assets.cache
+ª   ª               ª   Video.csproj.CoreCompileInputs.cache
+ª   ª               ª   Video.csproj.FileListAbsolute.txt
+ª   ª               ª   Video.dll
+ª   ª               ª   Video.GeneratedMSBuildEditorConfig.editorconfig
+ª   ª               ª   Video.genruntimeconfig.cache
+ª   ª               ª   Video.GlobalUsings.g.cs
+ª   ª               ª   Video.pdb
+ª   ª               ª   Video.sourcelink.json
+ª   ª               ª   
+ª   ª               +---ref
+ª   ª               ª       Video.dll
+ª   ª               ª       
+ª   ª               +---refint
+ª   ª                       Video.dll
+ª   ª                       
+ª   +---bin
+ª   ª   +---Debug
+ª   ª       +---net8.0
+ª   +---obj
+ª       ª   Foundation1.csproj.nuget.dgspec.json
+ª       ª   Foundation1.csproj.nuget.g.props
+ª       ª   Foundation1.csproj.nuget.g.targets
+ª       ª   project.assets.json
+ª       ª   project.nuget.cache
+ª       ª   
+ª       +---Debug
+ª           +---net8.0
+ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª               ª   Foundation1.AssemblyInfo.cs
+ª               ª   Foundation1.AssemblyInfoInputs.cache
+ª               ª   Foundation1.assets.cache
+ª               ª   Foundation1.csproj.CoreCompileInputs.cache
+ª               ª   Foundation1.csproj.FileListAbsolute.txt
+ª               ª   Foundation1.GeneratedMSBuildEditorConfig.editorconfig
+ª               ª   Foundation1.GlobalUsings.g.cs
+ª               ª   Foundation1.sourcelink.json
+ª               ª   
+ª               +---ref
+ª               +---refint
++---Foundation2
+ª   +---02-Shipping
+ª   ª   ª   Program.cs
+ª   ª   ª   README.md
+ª   ª   ª   Shipping.csproj
+ª   ª   ª   
+ª   ª   +---bin
+ª   ª   ª   +---Debug
+ª   ª   ª       +---net8.0
+ª   ª   ª               Shipping.deps.json
+ª   ª   ª               Shipping.dll
+ª   ª   ª               Shipping.exe
+ª   ª   ª               Shipping.pdb
+ª   ª   ª               Shipping.runtimeconfig.json
+ª   ª   ª               
+ª   ª   +---obj
+ª   ª       ª   project.assets.json
+ª   ª       ª   project.nuget.cache
+ª   ª       ª   Shipping.csproj.nuget.dgspec.json
+ª   ª       ª   Shipping.csproj.nuget.g.props
+ª   ª       ª   Shipping.csproj.nuget.g.targets
+ª   ª       ª   
+ª   ª       +---Debug
+ª   ª           +---net8.0
+ª   ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª   ª               ª   apphost.exe
+ª   ª               ª   Shipping.AssemblyInfo.cs
+ª   ª               ª   Shipping.AssemblyInfoInputs.cache
+ª   ª               ª   Shipping.assets.cache
+ª   ª               ª   Shipping.csproj.CoreCompileInputs.cache
+ª   ª               ª   Shipping.csproj.FileListAbsolute.txt
+ª   ª               ª   Shipping.dll
+ª   ª               ª   Shipping.GeneratedMSBuildEditorConfig.editorconfig
+ª   ª               ª   Shipping.genruntimeconfig.cache
+ª   ª               ª   Shipping.GlobalUsings.g.cs
+ª   ª               ª   Shipping.pdb
+ª   ª               ª   Shipping.sourcelink.json
+ª   ª               ª   
+ª   ª               +---ref
+ª   ª               ª       Shipping.dll
+ª   ª               ª       
+ª   ª               +---refint
+ª   ª                       Shipping.dll
+ª   ª                       
+ª   +---bin
+ª   ª   +---Debug
+ª   ª       +---net8.0
+ª   +---obj
+ª       ª   Foundation2.csproj.nuget.dgspec.json
+ª       ª   Foundation2.csproj.nuget.g.props
+ª       ª   Foundation2.csproj.nuget.g.targets
+ª       ª   project.assets.json
+ª       ª   project.nuget.cache
+ª       ª   
+ª       +---Debug
+ª           +---net8.0
+ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª               ª   Foundation2.AssemblyInfo.cs
+ª               ª   Foundation2.AssemblyInfoInputs.cache
+ª               ª   Foundation2.assets.cache
+ª               ª   Foundation2.csproj.CoreCompileInputs.cache
+ª               ª   Foundation2.csproj.FileListAbsolute.txt
+ª               ª   Foundation2.GeneratedMSBuildEditorConfig.editorconfig
+ª               ª   Foundation2.GlobalUsings.g.cs
+ª               ª   Foundation2.sourcelink.json
+ª               ª   
+ª               +---ref
+ª               +---refint
++---Foundation3
+ª   +---03-Planner
+ª   ª   ª   Planner.csproj
+ª   ª   ª   Program.cs
+ª   ª   ª   README.md
+ª   ª   ª   
+ª   ª   +---bin
+ª   ª   ª   +---Debug
+ª   ª   ª       +---net8.0
+ª   ª   ª               Planner.deps.json
+ª   ª   ª               Planner.dll
+ª   ª   ª               Planner.exe
+ª   ª   ª               Planner.pdb
+ª   ª   ª               Planner.runtimeconfig.json
+ª   ª   ª               
+ª   ª   +---obj
+ª   ª       ª   Planner.csproj.nuget.dgspec.json
+ª   ª       ª   Planner.csproj.nuget.g.props
+ª   ª       ª   Planner.csproj.nuget.g.targets
+ª   ª       ª   project.assets.json
+ª   ª       ª   project.nuget.cache
+ª   ª       ª   
+ª   ª       +---Debug
+ª   ª           +---net8.0
+ª   ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª   ª               ª   apphost.exe
+ª   ª               ª   Planner.AssemblyInfo.cs
+ª   ª               ª   Planner.AssemblyInfoInputs.cache
+ª   ª               ª   Planner.assets.cache
+ª   ª               ª   Planner.csproj.CoreCompileInputs.cache
+ª   ª               ª   Planner.csproj.FileListAbsolute.txt
+ª   ª               ª   Planner.dll
+ª   ª               ª   Planner.GeneratedMSBuildEditorConfig.editorconfig
+ª   ª               ª   Planner.genruntimeconfig.cache
+ª   ª               ª   Planner.GlobalUsings.g.cs
+ª   ª               ª   Planner.pdb
+ª   ª               ª   Planner.sourcelink.json
+ª   ª               ª   
+ª   ª               +---ref
+ª   ª               ª       Planner.dll
+ª   ª               ª       
+ª   ª               +---refint
+ª   ª                       Planner.dll
+ª   ª                       
+ª   +---bin
+ª   ª   +---Debug
+ª   ª       +---net8.0
+ª   +---obj
+ª       ª   Foundation3.csproj.nuget.dgspec.json
+ª       ª   Foundation3.csproj.nuget.g.props
+ª       ª   Foundation3.csproj.nuget.g.targets
+ª       ª   project.assets.json
+ª       ª   project.nuget.cache
+ª       ª   
+ª       +---Debug
+ª           +---net8.0
+ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ª               ª   Foundation3.AssemblyInfo.cs
+ª               ª   Foundation3.AssemblyInfoInputs.cache
+ª               ª   Foundation3.assets.cache
+ª               ª   Foundation3.csproj.CoreCompileInputs.cache
+ª               ª   Foundation3.csproj.FileListAbsolute.txt
+ª               ª   Foundation3.GeneratedMSBuildEditorConfig.editorconfig
+ª               ª   Foundation3.GlobalUsings.g.cs
+ª               ª   Foundation3.sourcelink.json
+ª               ª   
+ª               +---ref
+ª               +---refint
++---Foundation4
+    +---04-Exercise
+    ª   ª   Exercise.csproj
+    ª   ª   Program.cs
+    ª   ª   README.md
+    ª   ª   
+    ª   +---bin
+    ª   ª   +---Debug
+    ª   ª       +---net8.0
+    ª   ª               Exercise.deps.json
+    ª   ª               Exercise.dll
+    ª   ª               Exercise.exe
+    ª   ª               Exercise.pdb
+    ª   ª               Exercise.runtimeconfig.json
+    ª   ª               
+    ª   +---obj
+    ª       ª   Exercise.csproj.nuget.dgspec.json
+    ª       ª   Exercise.csproj.nuget.g.props
+    ª       ª   Exercise.csproj.nuget.g.targets
+    ª       ª   project.assets.json
+    ª       ª   project.nuget.cache
+    ª       ª   
+    ª       +---Debug
+    ª           +---net8.0
+    ª               ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+    ª               ª   apphost.exe
+    ª               ª   Exercise.AssemblyInfo.cs
+    ª               ª   Exercise.AssemblyInfoInputs.cache
+    ª               ª   Exercise.assets.cache
+    ª               ª   Exercise.csproj.CoreCompileInputs.cache
+    ª               ª   Exercise.csproj.FileListAbsolute.txt
+    ª               ª   Exercise.dll
+    ª               ª   Exercise.GeneratedMSBuildEditorConfig.editorconfig
+    ª               ª   Exercise.genruntimeconfig.cache
+    ª               ª   Exercise.GlobalUsings.g.cs
+    ª               ª   Exercise.pdb
+    ª               ª   Exercise.sourcelink.json
+    ª               ª   
+    ª               +---ref
+    ª               ª       Exercise.dll
+    ª               ª       
+    ª               +---refint
+    ª                       Exercise.dll
+    ª                       
+    +---bin
+    ª   +---Debug
+    ª       +---net8.0
+    +---obj
+        ª   Foundation4.csproj.nuget.dgspec.json
+        ª   Foundation4.csproj.nuget.g.props
+        ª   Foundation4.csproj.nuget.g.targets
+        ª   project.assets.json
+        ª   project.nuget.cache
+        ª   
+        +---Debug
+            +---net8.0
+                ª   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+                ª   Foundation4.AssemblyInfo.cs
+                ª   Foundation4.AssemblyInfoInputs.cache
+                ª   Foundation4.assets.cache
+                ª   Foundation4.csproj.CoreCompileInputs.cache
+                ª   Foundation4.csproj.FileListAbsolute.txt
+                ª   Foundation4.GeneratedMSBuildEditorConfig.editorconfig
+                ª   Foundation4.GlobalUsings.g.cs
+                ª   Foundation4.sourcelink.json
+                ª   
+                +---ref
+                +---refint
+=== Week 5 & Week 6 Evidence ===
+
+    Directory: C:\Users\Joeallan\dev\cse210-project\FinalProject\EternalQuest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          10/28/2025 11:07 PM                bin
+d----          10/28/2025 10:18 PM                legacy-backup
+d----          10/28/2025 10:18 PM                Models
+d----          10/28/2025 11:07 PM                obj
+d----          10/28/2025 10:18 PM                Services
+d----          10/28/2025 10:18 PM                Storage
+d----          10/28/2025 10:18 PM                UI
+-a---          10/28/2025 10:18 PM           6721 App.cs
+-a---          10/28/2025 10:18 PM            438 EternalQuest.csproj
+-a---          10/28/2025 10:18 PM            137 goals.csv
+-a---          10/28/2025 10:18 PM            748 goals.json
+-a---          10/28/2025 10:18 PM            124 goals.txt
+-a---          10/28/2025 10:18 PM           2581 Program.cs
+-a---          10/28/2025 11:06 PM            679 README.md
+-a---          10/29/2025  1:28 AM            746 W06_Milestone.md
+
+# W06 Prove — Developer: Project Milestone
+
+Project: Eternal Quest (Goal Tracker)
+Location in repo: FinalProject/EternalQuest
+
+What’s working now
+- Class hierarchy: Goal (base), SimpleGoal, EternalGoal, ChecklistGoal
+- Menu UI: create, list, record progress, save, load
+- Points shown on menu
+- Storage: JSON (goals.json) + CSV/TXT export
+- Checklist progress + bonus on completion
+
+OOP Mapping (rubric)
+- Abstraction: IStorage (JsonStorage, FileStorage), GoalService
+- Encapsulation: private fields, public methods, classes manage their own state
+- Inheritance: Goal → Simple/Eternal/Checklist
+- Polymorphism: Goal.Record() overridden in each derived class
+
+How to run
+dotnet run --project .\FinalProject\EternalQuest\EternalQuest.csproj
