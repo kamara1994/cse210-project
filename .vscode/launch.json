@@ -5,12 +5,11 @@
       "name": "Develop05",
       "type": "coreclr",
       "request": "launch",
-      "preLaunchTask": "build-Develop05",
       "program": "${workspaceFolder}/FinalProject/EternalQuest/bin/Debug/net8.0/EternalQuest.dll",
       "args": [],
       "cwd": "${workspaceFolder}/FinalProject/EternalQuest",
-      "console": "integratedTerminal",
-      "stopAtEntry": false
+      "preLaunchTask": "build EternalQuest",
+      "console": "integratedTerminal"
     }
   ]
 }
