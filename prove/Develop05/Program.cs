@@ -1,4 +1,6 @@
-//
+// CSE 210 — W05 Eternal Quest
+// Exceeds: Leveling system (every 500 pts), user “toast” confirmations, CSV save/load.
+////
 // CSE 210 — W05 Eternal Quest
 // Exceeds requirements:
 //  - Leveling system (every 500 pts) shown in header
