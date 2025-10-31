@@ -1,0 +1,135 @@
+=== FINAL PROJECT RUN VERIFICATION ===
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Prep3 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep3\bin\Debug\net8.0\Prep3.dll
+  Learning02 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning02\bin\Debug\net8.0\Learning02.dll
+  Prep4 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep4\bin\Debug\net8.0\Prep4.dll
+  Sandbox -> C:\Users\Joeallan\dev\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+  Prep5 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep5\bin\Debug\net8.0\Prep5.dll
+  Develop04 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop04\bin\Debug\net8.0\Develop04.dll
+  Prep2 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.dll
+  Learning05 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning05\bin\Debug\net8.0\Learning05.dll
+  Develop03 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop03\bin\Debug\net8.0\Develop03.dll
+  Develop02 -> C:\Users\Joeallan\dev\cse210-project\prove\Develop02\bin\Debug\net8.0\Develop02.dll
+  EternalQuest -> C:\Users\Joeallan\dev\cse210-project\FinalProject\EternalQuest\bin\Debug\net8.0\EternalQuest.dll
+  Learning04 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning04\bin\Debug\net8.0\Learning04.dll
+  Learning03 -> C:\Users\Joeallan\dev\cse210-project\prepare\Learning03\bin\Debug\net8.0\Learning03.dll
+  Foundation1 -> C:\Users\Joeallan\dev\cse210-project\final\Foundation1\bin\Debug\net8.0\Foundation1.dll
+  FinalProject -> C:\Users\Joeallan\dev\cse210-project\final\FinalProject\bin\Debug\net8.0\FinalProject.dll
+  Foundation3 -> C:\Users\Joeallan\dev\cse210-project\final\Foundation3\bin\Debug\net8.0\Foundation3.dll
+  Foundation4 -> C:\Users\Joeallan\dev\cse210-project\final\Foundation4\bin\Debug\net8.0\Foundation4.dll
+  Prep1 -> C:\Users\Joeallan\dev\cse210-project\csharp-prep\Prep1\bin\Debug\net8.0\Prep1.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.33
+Title: Faith & Works  | Author: Joseph A. Kamara  | Length: 420s
+Comments (2):
+  - Amaka: Loved the scripture tie-in!
+  - Samuel: Clear explanation.
+
+
+Title: Shipping Demo  | Author: BYU-I CSE210  | Length: 300s
+Comments (1):
+  - Kofi: Labels looked professional.
+
+
+Title: Planner Walkthrough  | Author: Team Rexburg  | Length: 375s
+Comments (3):
+  - Ada: Can you share the slides?
+  - Liam: Great pacing.
+  - Mia: Very helpful tips.
+
+
+PACKING LABEL:
+ - USB-C Cable (#A100) x2
+ - Notebook (#B220) x5
+
+SHIPPING LABEL:
+Joseph Allan Kamara
+123 Center St
+Rexburg, ID, ID
+USA
+
+TOTAL: $22.48
+
+PACKING LABEL:
+ - Headphones (#H900) x1
+ - Charger (#C330) x1
+
+SHIPPING LABEL:
+Kandeh Sesay
+12 Lumley Rd
+Freetown, W Area
+Sierra Leone
+
+TOTAL: $59.98
+--- Standard ---
+Clean Code 101
+Intro to SOLID
+2025-10-30 @ 10:00 AM
+Austin Auditorium
+Rexburg
+ID
+
+--- Full ---
+Clean Code 101
+Intro to SOLID
+2025-10-30 @ 10:00 AM
+Austin Auditorium
+Rexburg
+ID
+Type: Lecture
+Speaker: Dr. Jensen
+Capacity: 120
+
+--- Short ---
+Lecture ΓÇö Clean Code 101 ΓÇö 2025-10-30
+
+--- Standard ---
+Founders Mixer
+Meet & Greet
+2025-11-02 @ 6:00 PM
+BYU-I Ballroom
+Rexburg
+ID
+
+--- Full ---
+Founders Mixer
+Meet & Greet
+2025-11-02 @ 6:00 PM
+BYU-I Ballroom
+Rexburg
+ID
+Type: Reception
+RSVP: rsvp@nimbus.example
+
+--- Short ---
+Reception ΓÇö Founders Mixer ΓÇö 2025-11-02
+
+--- Standard ---
+Team Hike
+Scenic loop trail
+2025-11-09 @ 8:00 AM
+Kelly Canyon
+Ririe
+ID
+
+--- Full ---
+Team Hike
+Scenic loop trail
+2025-11-09 @ 8:00 AM
+Kelly Canyon
+Ririe
+ID
+Type: Outdoor
+Forecast: Sunny, light breeze
+
+--- Short ---
+Outdoor ΓÇö Team Hike ΓÇö 2025-11-09
+
+26 Oct 2025 Running (30 min) - Distance: 5.0 km, Speed: 10.0 kph, Pace: 6.0 min/km
+27 Oct 2025 Cycling (40 min) - Distance: 14.7 km, Speed: 22.0 kph, Pace: 2.7 min/km
+28 Oct 2025 Swimming (25 min) - Distance: 1.5 km, Speed: 3.6 kph, Pace: 16.7 min/km
