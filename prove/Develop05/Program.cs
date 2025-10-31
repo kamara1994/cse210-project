@@ -1,4 +1,10 @@
-// Eternal Quest (Develop05) — Exceeds Requirements:
+//
+// CSE 210 — W05 Eternal Quest
+// Exceeds requirements:
+//  - Leveling system (every 500 pts) shown in header
+//  - Friendly “toast” confirmations after actions
+//  - Robust CSV save/load with score + goals
+//// Eternal Quest (Develop05) — Exceeds Requirements:
 // - Storage strategy interface (IStorage) with JsonStorage & FileStorage (multi-format save/load)
 // - Checklist goals grant a configurable bonus when target is reached
 // - Running total points tracked centrally in GoalService with clear menu feedback
@@ -85,4 +91,5 @@ Goal MakeChecklist(string name, int pts, string notes)
     Console.Write("Bonus when complete: "); int.TryParse(Console.ReadLine(), out var bonus);
     return new ChecklistGoal { Id = svc.NextId(), Name = name, Points = pts, Notes = notes, TargetCount = target, Bonus = bonus };
 }
+
 
