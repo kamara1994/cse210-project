@@ -1,11 +1,11 @@
-# Build artifacts
-**/bin/
-**/obj/
+bin/
+obj/
 .vs/
+TestResults/
 *.user
 *.suo
-*.userprefs
-
-# OS junk
+*.log
+*.nupkg
 .DS_Store
-Thumbs.db
+.idea/
+.vscode/
