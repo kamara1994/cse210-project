@@ -9,8 +9,4 @@ TestResults/
 .DS_Store
 .idea/
 .vscode/
-bin/
-obj/
-.vs/
-TestResults/
 goals.csv
