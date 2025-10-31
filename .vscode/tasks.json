@@ -2,16 +2,11 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build-Develop05",
-      "type": "process",
+      "label": "build EternalQuest",
       "command": "dotnet",
-      "args": [
-        "build",
-        "${workspaceFolder}/FinalProject/EternalQuest/EternalQuest.csproj",
-        "-c", "Debug"
-      ],
-      "problemMatcher": "$msCompile",
-      "group": "build"
+      "type": "process",
+      "args": [ "build", "${workspaceFolder}/FinalProject/EternalQuest/EternalQuest.csproj" ],
+      "problemMatcher": "$msCompile"
     }
   ]
 }
